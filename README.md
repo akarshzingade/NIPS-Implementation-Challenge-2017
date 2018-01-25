@@ -1,1 +1,1 @@
-# NIPS-Implementation-Challenge-2017
+# NIPS Implementation Challenge 2017- Deep Sets
