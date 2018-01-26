@@ -11,4 +11,4 @@ This repository is for [Nurture AI's Global NIPS Implementation Challenge](https
 
 
 # Acknowlegements
-I would like to thank Nurture AI for this amazing initiative and mentor [Brian Cheung](https://github.com/briancheung) for his guidance.
+I would like to thank [Nurture AI](https://nurture.ai/) for this amazing initiative and mentor [Brian Cheung](https://github.com/briancheung) for his guidance.
